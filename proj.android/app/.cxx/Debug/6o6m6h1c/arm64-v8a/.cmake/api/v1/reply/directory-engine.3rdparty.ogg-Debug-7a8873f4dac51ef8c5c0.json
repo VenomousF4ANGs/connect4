@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "engine/3rdparty/ogg",
+		"source" : "/Users/abhisekh.nag/code/axmol/3rdparty/ogg"
+	}
+}

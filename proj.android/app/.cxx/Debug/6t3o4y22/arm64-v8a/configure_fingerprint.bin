@@ -1,0 +1,150 @@
+C/C++ Structured Log:
+8
+6/Users/abhisekh.nag/code/axmol/3rdparty/CMakeLists.txtC
+A
+?com.android.build.gradle.internal.cxx.io.EncodedFileFingerPrint	¡­×ŽÁ2æ} Ô¦ÝÒº2E
+C
+A/Users/abhisekh.nag/code/axmol/3rdparty/ConvertUTF/CMakeLists.txt	¡­×ŽÁ2¸ Ô¦ÝÒº2W
+U
+S/Users/abhisekh.nag/code/axmol/3rdparty/android-specific/cpufeatures/CMakeLists.txt	¡­×ŽÁ2Ã Õ¦ÝÒº2B
+@
+>/Users/abhisekh.nag/code/axmol/3rdparty/astcenc/CMakeLists.txt	¡­×ŽÁ2ý Õ¦ÝÒº2@
+>
+</Users/abhisekh.nag/code/axmol/3rdparty/box2d/CMakeLists.txt	¡­×ŽÁ2Î Ø¦ÝÒº2A
+?
+=/Users/abhisekh.nag/code/axmol/3rdparty/bullet/CMakeLists.txt	¡­×ŽÁ2Ð ö¦ÝÒº2C
+A
+?/Users/abhisekh.nag/code/axmol/3rdparty/chipmunk/CMakeLists.txt	¡­×ŽÁ2Ø ú¦ÝÒº2G
+E
+C/Users/abhisekh.nag/code/axmol/3rdparty/chipmunk/src/CMakeLists.txt	¡­×ŽÁ2	º ü¦ÝÒº2C
+A
+?/Users/abhisekh.nag/code/axmol/3rdparty/clipper2/CMakeLists.txt	¡­×ŽÁ2
+ˆ þ¦ÝÒº2?
+=
+;/Users/abhisekh.nag/code/axmol/3rdparty/curl/CMakeLists.txt	¡­×ŽÁ2ƒ €§ÝÒº2A
+?
+=/Users/abhisekh.nag/code/axmol/3rdparty/fastlz/CMakeLists.txt	¡­×ŽÁ2þ €§ÝÒº2>
+<
+:/Users/abhisekh.nag/code/axmol/3rdparty/fmt/CMakeLists.txt	¡­×ŽÁ2ó“ ‚§ÝÒº2C
+A
+?/Users/abhisekh.nag/code/axmol/3rdparty/freetype/CMakeLists.txt	¡­×ŽÁ2é§ …§ÝÒº2?
+=
+;/Users/abhisekh.nag/code/axmol/3rdparty/glad/CMakeLists.txt	¡­×ŽÁ2Ø ¯§ÝÒº2E
+C
+A/Users/abhisekh.nag/code/axmol/3rdparty/jpeg-turbo/CMakeLists.txt	¡­×ŽÁ2  ¹§ÝÒº2A
+?
+=/Users/abhisekh.nag/code/axmol/3rdparty/llhttp/CMakeLists.txt	¡­×ŽÁ2ñ ¹§ÝÒº2H
+F
+D/Users/abhisekh.nag/code/axmol/3rdparty/lua/lua-cjson/CMakeLists.txt	¡­×ŽÁ2ù ¹§ÝÒº2G
+E
+C/Users/abhisekh.nag/code/axmol/3rdparty/lua/plainlua/CMakeLists.txt	¡­×ŽÁ2ë º§ÝÒº2D
+B
+@/Users/abhisekh.nag/code/axmol/3rdparty/lua/tolua/CMakeLists.txt	¡­×ŽÁ2˜ ¿§ÝÒº2>
+<
+:/Users/abhisekh.nag/code/axmol/3rdparty/ogg/CMakeLists.txt	¡­×ŽÁ2Á À§ÝÒº2A
+?
+=/Users/abhisekh.nag/code/axmol/3rdparty/openal/CMakeLists.txt	¡­×ŽÁ2œƒ Æ§ÝÒº2B
+@
+>/Users/abhisekh.nag/code/axmol/3rdparty/openssl/CMakeLists.txt	¡­×ŽÁ2³ Ù§ÝÒº2>
+<
+:/Users/abhisekh.nag/code/axmol/3rdparty/png/CMakeLists.txt	¡­×ŽÁ2Š Ù§ÝÒº2C
+A
+?/Users/abhisekh.nag/code/axmol/3rdparty/poly2tri/CMakeLists.txt	¡­×ŽÁ2¹ Ü§ÝÒº2B
+@
+>/Users/abhisekh.nag/code/axmol/3rdparty/pugixml/CMakeLists.txt	¡­×ŽÁ2õ Ý§ÝÒº2A
+?
+=/Users/abhisekh.nag/code/axmol/3rdparty/recast/CMakeLists.txt	¡­×ŽÁ2å á§ÝÒº2C
+A
+?/Users/abhisekh.nag/code/axmol/3rdparty/simdjson/CMakeLists.txt	¡­×ŽÁ2õ ä§ÝÒº2@
+>
+</Users/abhisekh.nag/code/axmol/3rdparty/unzip/CMakeLists.txt	¡­×ŽÁ2Å ë§ÝÒº2?
+=
+;/Users/abhisekh.nag/code/axmol/3rdparty/webp/CMakeLists.txt	¡­×ŽÁ2Ã ì§ÝÒº2K
+I
+G/Users/abhisekh.nag/code/axmol/3rdparty/websocket-parser/CMakeLists.txt	¡­×ŽÁ2 ù§ÝÒº2A
+?
+=/Users/abhisekh.nag/code/axmol/3rdparty/xxhash/CMakeLists.txt	¡­×ŽÁ2 ­ ú§ÝÒº2@
+>
+</Users/abhisekh.nag/code/axmol/3rdparty/yasio/CMakeLists.txt	¡­×ŽÁ2!î ú§ÝÒº2?
+=
+;/Users/abhisekh.nag/code/axmol/3rdparty/zlib/CMakeLists.txt	¡­×ŽÁ2"Œ ÿ§ÝÒº29
+7
+5/Users/abhisekh.nag/code/axmol/core/2d/CMakeLists.txt	¡­×ŽÁ2#‹ ƒ¨ÝÒº29
+7
+5/Users/abhisekh.nag/code/axmol/core/3d/CMakeLists.txt	¡­×ŽÁ2$­ ‹¨ÝÒº26
+4
+2/Users/abhisekh.nag/code/axmol/core/CMakeLists.txt	¡­×ŽÁ2%æ• Ž¨ÝÒº2<
+:
+8/Users/abhisekh.nag/code/axmol/core/audio/CMakeLists.txt	¡­×ŽÁ2&É ¨ÝÒº2;
+9
+7/Users/abhisekh.nag/code/axmol/core/base/CMakeLists.txt	¡­×ŽÁ2'Æ ¨ÝÒº2;
+9
+7/Users/abhisekh.nag/code/axmol/core/math/CMakeLists.txt	¡­×ŽÁ2(£ ™¨ÝÒº2>
+<
+:/Users/abhisekh.nag/code/axmol/core/navmesh/CMakeLists.txt	¡­×ŽÁ2)Ô œ¨ÝÒº2>
+<
+:/Users/abhisekh.nag/code/axmol/core/network/CMakeLists.txt	¡­×ŽÁ2*‘ œ¨ÝÒº2>
+<
+:/Users/abhisekh.nag/code/axmol/core/physics/CMakeLists.txt	¡­×ŽÁ2+‡ ž¨ÝÒº2@
+>
+</Users/abhisekh.nag/code/axmol/core/physics3d/CMakeLists.txt	¡­×ŽÁ2,Ü Ÿ¨ÝÒº2?
+=
+;/Users/abhisekh.nag/code/axmol/core/platform/CMakeLists.txt	¡­×ŽÁ2-Õ3  ¨ÝÒº2G
+E
+C/Users/abhisekh.nag/code/axmol/core/platform/android/CMakeLists.txt	¡­×ŽÁ2.í ¡¨ÝÒº2?
+=
+;/Users/abhisekh.nag/code/axmol/core/renderer/CMakeLists.txt	¡­×ŽÁ2/á% ®¨ÝÒº29
+7
+5/Users/abhisekh.nag/code/axmol/core/ui/CMakeLists.txt	¡­×ŽÁ20Û. ¹¨ÝÒº2<
+:
+8/Users/abhisekh.nag/code/axmol/extensions/CMakeLists.txt	¡­×ŽÁ21œ Å¨ÝÒº2H
+F
+D/Users/abhisekh.nag/code/axmol/extensions/DragonBones/CMakeLists.txt	¡­×ŽÁ22ÿ Å¨ÝÒº2@
+>
+</Users/abhisekh.nag/code/axmol/extensions/GUI/CMakeLists.txt	¡­×ŽÁ23æ è¨ÝÒº2B
+@
+>/Users/abhisekh.nag/code/axmol/extensions/ImGui/CMakeLists.txt	¡­×ŽÁ24„ ë¨ÝÒº2F
+D
+B/Users/abhisekh.nag/code/axmol/extensions/Inspector/CMakeLists.txt	¡­×ŽÁ25š ð¨ÝÒº2H
+F
+D/Users/abhisekh.nag/code/axmol/extensions/JSONDefault/CMakeLists.txt	¡­×ŽÁ26Ë ñ¨ÝÒº2G
+E
+C/Users/abhisekh.nag/code/axmol/extensions/Particle3D/CMakeLists.txt	¡­×ŽÁ27õ ø¨ÝÒº2C
+A
+?/Users/abhisekh.nag/code/axmol/extensions/SDFGen/CMakeLists.txt	¡­×ŽÁ28ï ‰©ÝÒº2K
+I
+G/Users/abhisekh.nag/code/axmol/extensions/assets-manager/CMakeLists.txt	¡­×ŽÁ29Ý ‰©ÝÒº2G
+E
+C/Users/abhisekh.nag/code/axmol/extensions/cocostudio/CMakeLists.txt	¡­×ŽÁ2:ä Š©ÝÒº2E
+C
+A/Users/abhisekh.nag/code/axmol/extensions/fairygui/CMakeLists.txt	¡­×ŽÁ2;ú ˜©ÝÒº2J
+H
+F/Users/abhisekh.nag/code/axmol/extensions/physics-nodes/CMakeLists.txt	¡­×ŽÁ2<Ÿ ¡©ÝÒº2S
+Q
+O/Users/abhisekh.nag/code/axmol/extensions/scripting/lua-bindings/CMakeLists.txt	¡­×ŽÁ2=ü= ¢©ÝÒº2B
+@
+>/Users/abhisekh.nag/code/axmol/extensions/spine/CMakeLists.txt	¡­×ŽÁ2>‰ ·©ÝÒº24
+2
+0/Users/abhisekh.nag/code/connect4/CMakeLists.txt	¡­×ŽÁ2?Ù@ ß©³õ»2q
+o
+m/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6t3o4y22/arm64-v8a/additional_project_files.txt	¡­×ŽÁ2@ÔÎ ƒÖÅó¿2n
+l
+j/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6t3o4y22/arm64-v8a/android_gradle_build.json	¡­×ŽÁ2Aó… ŠÖÅó¿2s
+q
+o/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6t3o4y22/arm64-v8a/android_gradle_build_mini.json	¡­×ŽÁ2Bû í×Åó¿2`
+^
+\/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6t3o4y22/arm64-v8a/build.ninja	¡­×ŽÁ2C«ŒŽ ·ÔÅó¿2d
+b
+`/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6t3o4y22/arm64-v8a/build.ninja.txt	¡­×ŽÁ2Di
+g
+e/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6t3o4y22/arm64-v8a/build_file_index.txt	¡­×ŽÁ2E° ñ×Åó¿2j
+h
+f/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6t3o4y22/arm64-v8a/compile_commands.json	¡­×ŽÁ2F„¸ü µÔÅó¿2n
+l
+j/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6t3o4y22/arm64-v8a/compile_commands.json.bin	¡­×ŽÁ2GªÅ µÔÅó¿2t
+r
+p/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6t3o4y22/arm64-v8a/metadata_generation_command.txt	¡­×ŽÁ2HÆ	 ð×Åó¿2g
+e
+c/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6t3o4y22/arm64-v8a/prefab_config.json	¡­×ŽÁ2I( ð×Åó¿2l
+j
+h/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6t3o4y22/arm64-v8a/symbol_folder_index.txt	¡­×ŽÁ2Jg ñ×Åó¿2

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "engine/extensions/scripting/lua-bindings",
+		"source" : "/Users/abhisekh.nag/code/axmol/extensions/scripting/lua-bindings"
+	}
+}

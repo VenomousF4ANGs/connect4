@@ -1,0 +1,375 @@
+{
+  "buildFiles": [
+    "/Users/abhisekh.nag/code/axmol/3rdparty/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/ConvertUTF/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/android-specific/cpufeatures/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/astcenc/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/box2d/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/bullet/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/chipmunk/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/chipmunk/src/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/clipper2/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/curl/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/fastlz/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/fmt/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/freetype/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/glad/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/jpeg-turbo/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/llhttp/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/lua/lua-cjson/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/lua/plainlua/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/lua/tolua/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/ogg/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/openal/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/openssl/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/png/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/poly2tri/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/pugixml/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/recast/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/simdjson/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/unzip/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/webp/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/websocket-parser/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/xxhash/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/yasio/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/3rdparty/zlib/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/2d/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/3d/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/audio/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/base/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/math/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/navmesh/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/network/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/physics/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/physics3d/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/platform/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/platform/android/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/renderer/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/core/ui/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/DragonBones/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/GUI/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/ImGui/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/Inspector/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/JSONDefault/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/Particle3D/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/SDFGen/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/assets-manager/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/cocostudio/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/fairygui/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/physics-nodes/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/scripting/lua-bindings/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/axmol/extensions/spine/CMakeLists.txt",
+    "/Users/abhisekh.nag/code/connect4/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/abhisekh.nag/Library/Android/sdk/cmake/3.31.1/bin/ninja",
+      "-C",
+      "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/abhisekh.nag/Library/Android/sdk/cmake/3.31.1/bin/ninja",
+    "-C",
+    "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ConvertUTF::@8ef87820ac91d1b1aaab": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "ConvertUTF",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libConvertUTF.a"
+    },
+    "DragonBones::@10d352b61c57d6d47c94": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "DragonBones",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libDragonBones.a"
+    },
+    "GUI::@c83b264aaa1ba36fccf5": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "GUI",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libGUI.a"
+    },
+    "ImGui::@d0e2a35dca395913b7fc": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "ImGui",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libImGui.a"
+    },
+    "Inspector::@2394cd5c82b431a09147": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "Inspector",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libInspector.a"
+    },
+    "JSONDefault::@25c6db9f7dafab02d272": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "JSONDefault",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libJSONDefault.a"
+    },
+    "OpenAL::@1c3fe5358577ba279a79": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "OpenAL",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libopenal.so",
+      "runtimeFiles": []
+    },
+    "SDFGen::@7666503695ed4edf3091": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "SDFGen",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libSDFGen.a"
+    },
+    "SYNC_RESOURCE-connect4::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "SYNC_RESOURCE-connect4"
+    },
+    "al-excommon::@1c3fe5358577ba279a79": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "al-excommon",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/engine/3rdparty/openal/libal-excommon.a"
+    },
+    "alcommon::@1c3fe5358577ba279a79": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "alcommon",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libalcommon.a"
+    },
+    "assets-manager::@9dcd82ccb90758d64515": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "assets-manager",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libassets-manager.a"
+    },
+    "astcenc::@730cd7a4979c4081e0bb": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "astcenc",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libastcenc.a"
+    },
+    "axlua::@04afe047421f8d35c5b0": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "axlua",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libaxlua.a"
+    },
+    "axmol::@bf69472f26d8c3f79a15": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "axmol",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libaxmol.a"
+    },
+    "box2d::@5b8e16bb6bf48d305e92": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "box2d",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libbox2d.a"
+    },
+    "bullet::@067658e0fbb0fb148693": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "bullet",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libbullet.a"
+    },
+    "chipmunk::@e030cd6fde125c56595a": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "chipmunk",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libchipmunk.a"
+    },
+    "clipper2::@3fd6c85fdb7182944ebd": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "clipper2",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libclipper2.a"
+    },
+    "cocostudio::@60c66ce02398592d0763": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "cocostudio",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libcocostudio.a"
+    },
+    "connect4::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "connect4",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/build/intermediates/cxx/Debug/6o6m6h1c/obj/arm64-v8a/libconnect4.so",
+      "runtimeFiles": [
+        "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libopenal.so"
+      ]
+    },
+    "cpp_android_spec::@399633093cdc7e320adf": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "cpp_android_spec",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/engine/core/cpp-android/libcpp_android_spec.a"
+    },
+    "cpufeatures::@231aa10ceab92dd529f0": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "cpufeatures",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/engine/3rdparty/android-specific/cpufeatures/libcpufeatures.a"
+    },
+    "fairygui::@f06704b5f80aeca1aefb": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "fairygui",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libfairygui.a"
+    },
+    "fastlz::@d215ee184e8bbb0fbbe4": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "fastlz",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libfastlz.a"
+    },
+    "fmt::@172b82096f85eddb0020": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "fmt",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libfmtd.a"
+    },
+    "freetype::@b20ff8c2dc78e0658ee3": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "freetype",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libfreetype.a"
+    },
+    "glad::@b0b000e275056f88e885": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "glad",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libglad.a"
+    },
+    "llhttp::@c4737d653051f9356e20": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "llhttp",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libllhttp.a"
+    },
+    "lua-cjson::@c21850963483ce16ab32": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "lua-cjson",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/liblua-cjson.a"
+    },
+    "ogg::@6fb0191cdcece2d50006": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "ogg",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libogg.a"
+    },
+    "particle3d::@6723bbaaff3124d2c47d": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "particle3d",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libparticle3d.a"
+    },
+    "physics-nodes::@74d1a12157aa0bc3fb31": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "physics-nodes",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libphysics-nodes.a"
+    },
+    "plainlua::@98ee9c76c2e53d04c1ec": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "plainlua",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libplainlua.a"
+    },
+    "png::@36cc07a3e1ba7c2bde31": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "png",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libpng.a"
+    },
+    "poly2tri::@078c79c6faf9714b8627": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "poly2tri",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libpoly2tri.a"
+    },
+    "pugixml::@a71f8eacd2382805b307": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "pugixml",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libpugixml.a"
+    },
+    "recast::@daa12a0718eb5667b377": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "recast",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/librecast.a"
+    },
+    "simdjson::@bfa1e1ea590cf53af7d7": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "simdjson",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libsimdjson.a"
+    },
+    "spine::@25f68d044ed9243d3c7c": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "spine",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libspine.a"
+    },
+    "tolua::@73310b5a34b7997bbabb": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "tolua",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libtolua.a"
+    },
+    "unzip::@6d5ba6f3a180a514ac31": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "unzip",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libunzip.a"
+    },
+    "webp::@c74d47a8972f79274125": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "webp",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libwebp.a"
+    },
+    "websocket-parser::@7dd8a899c4dcd334c423": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "websocket-parser",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libwebsocket-parser.a"
+    },
+    "xxhash::@756c2fb412866390bb07": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "xxhash",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libxxhash.a"
+    },
+    "yasio::@a7174f46b4b9a2b4a7bf": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "yasio",
+      "output": "/Users/abhisekh.nag/code/connect4/proj.android/app/.cxx/Debug/6o6m6h1c/arm64-v8a/lib/libyasio.a"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/abhisekh.nag/Library/Android/sdk/ndk/23.2.8568313/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/abhisekh.nag/Library/Android/sdk/ndk/23.2.8568313/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp",
+    "cxx",
+    "cc"
+  ]
+}
